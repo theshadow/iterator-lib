@@ -4,7 +4,7 @@ iterator-lib
 Contains some iterators and collections to add to the default SPL ones.
 
 
-{% codeblock lang:php Example of the IntervalIterator %}
+```php
 <?php
 
 /**
@@ -36,9 +36,9 @@ foreach ($intervalIterator as $key => $value) {
   echo $key, ': ';
   var_dump($value);
 }
-{% endcodeblock %}
+```
 
-{% codeblock lang:text Example output %}
+```
 $ php main.php
 1: string(5) "zebra"
 2: string(3) "zoo"
@@ -70,4 +70,4 @@ $ php main.php
 28: string(8) "achieved"
 29: string(8) "accuracy"
 30: string(5) "alamo"
-{% endcodeblock %}
+```
