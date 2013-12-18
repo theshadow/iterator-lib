@@ -1,7 +1,6 @@
 {
 	"name": "theshadow/iteratorlib",
 	"description": "A library which provides new collections and iterators for programmers. Namely the IntervalIterator, ReverseArrayIterator, and StablePriorityQueue.",
-	"minimum-stability": "stable",
 	"authors": [
 		{
 			"name": "Xander Guzman",
