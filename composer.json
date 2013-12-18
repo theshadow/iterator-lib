@@ -1,5 +1,5 @@
 {
-	"name": "theshadow/iteratorlib",
+	"name": "theshadow/iterator-lib",
 	"description": "A library which provides new collections and iterators for programmers. Namely the IntervalIterator, ReverseArrayIterator, and StablePriorityQueue.",
 	"authors": [
 		{
