@@ -14,7 +14,7 @@ namespace IteratorLib\Iterator;
 /**
  * Reverse iterates over an array.
  */
-class ReverseArrayIterator extends ArrayIterator
+class ReverseArrayIterator extends \ArrayIterator
 {
 
 	/**
