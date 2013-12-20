@@ -11,8 +11,8 @@
 
 namespace IteratorLib\Iterator;
 
-use AppendStablePriorityQueueIterator;
-use ReverseArrayIterator;
+use IteratorLib\Iterator\AppendStablePriorityQueueIterator;
+use IteratorLib\Iterator\ReverseArrayIterator;
 
 /**
  * An aggregate iterator that iterates over other iterators based on defined intervals.
